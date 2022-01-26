@@ -1,0 +1,965 @@
+{
+    "numMatches": 27,
+    "results": [
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 17.421340424627836,
+              "longitude": 78.3397954471589
+            },
+            "markerLabelName": "VARMA S A CH",
+            "type": "WORKSPACE"
+          },
+          "floorId": "IN-HYD-MTECH-10",
+          "asset": {
+            "roomId": "IN-HYD-MTECH-10-10134A",
+            "location": {
+              "latitude": 17.421340424627836,
+              "longitude": 78.3397954471589
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000439256"
+                },
+                "username": "varmasa",
+                "givenName": "VARMA S A",
+                "familyName": "CH",
+                "title": "YouTube T&S Associate - Policy Agent",
+                "personId": "107122069162632892219"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1002000102426"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000439256"
+        },
+        "distance": 5.515711,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 12.982454702972074,
+              "longitude": 77.697163816653514
+            },
+            "markerLabelName": "Muhammed Sa",
+            "type": "WORKSPACE"
+          },
+          "floorId": "IN-BLR-BCPV-9",
+          "asset": {
+            "roomId": "IN-BLR-BCPV-9-9056F",
+            "location": {
+              "latitude": 12.982454702972074,
+              "longitude": 77.697163816653514
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000459071"
+                },
+                "username": "muhammedsa",
+                "givenName": "Muhammed",
+                "middleName": "Shadeed",
+                "familyName": "Sa",
+                "title": "New Content Reviewer",
+                "personId": "112729565788898663236"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1002000080714"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000459071"
+        },
+        "distance": 503.05148,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 12.981816075969055,
+              "longitude": 77.69922381681
+            },
+            "markerLabelName": "Farheen Fathima S A",
+            "type": "WORKSPACE"
+          },
+          "floorId": "IN-BLR-BCPC-5",
+          "asset": {
+            "roomId": "IN-BLR-BCPC-5-5085C",
+            "location": {
+              "latitude": 12.981816075969055,
+              "longitude": 77.69922381681
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000465308"
+                },
+                "username": "farheenfathima",
+                "givenName": "Farheen Fathima",
+                "familyName": "S A",
+                "title": "Data Analyst",
+                "personId": "103720416653017573531"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1002000360165"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000465308"
+        },
+        "distance": 503.08997,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 3.1339934594316303,
+              "longitude": 101.68761029461842
+            },
+            "markerLabelName": "Hasbulloh Sa-No",
+            "type": "WORKSPACE"
+          },
+          "floorId": "MY-KUL-SEN-30",
+          "asset": {
+            "roomId": "MY-KUL-SEN-30-3050E",
+            "location": {
+              "latitude": 3.1339934594316303,
+              "longitude": 101.68761029461842
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000024604"
+                },
+                "username": "hasbulloh",
+                "givenName": "Hasbulloh",
+                "familyName": "Sa-No",
+                "title": "Content Review Analyst",
+                "personId": "101648207828354934776"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1002000036559"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000024604"
+        },
+        "distance": 3000.399,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 3.1338506853197554,
+              "longitude": 101.68798994649458
+            },
+            "markerLabelName": "Woongbin Sa",
+            "type": "WORKSPACE"
+          },
+          "floorId": "MY-KUL-SEN-10",
+          "asset": {
+            "roomId": "MY-KUL-SEN-10-1060D",
+            "location": {
+              "latitude": 3.1338506853197554,
+              "longitude": 101.68798994649458
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000410832"
+                },
+                "username": "woongbin",
+                "givenName": "Woongbin",
+                "familyName": "Sa",
+                "title": "YouTube T&S Associate - Policy Agent",
+                "personId": "102226288369577970062"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/4951919627"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000410832"
+        },
+        "distance": 3000.4426,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 3.1337531173617559,
+              "longitude": 101.68804398155838
+            },
+            "markerLabelName": "Sa Yubin",
+            "type": "WORKSPACE"
+          },
+          "floorId": "MY-KUL-SEN-10",
+          "asset": {
+            "roomId": "MY-KUL-SEN-10-1072H",
+            "location": {
+              "latitude": 3.1337531173617559,
+              "longitude": 101.68804398155838
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000441741"
+                },
+                "username": "syubin",
+                "givenName": "Sa",
+                "familyName": "Yubin",
+                "title": "YouTube T&S Associate - Policy Agent",
+                "personId": "104637562242916360940"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/4951931262"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000441741"
+        },
+        "distance": 3000.4536,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 1.2763160380893743,
+              "longitude": 103.80014009813864
+            },
+            "markerLabelName": "Harry Sa",
+            "type": "WORKSPACE"
+          },
+          "floorId": "SG-SIN-MBC2-6",
+          "asset": {
+            "roomId": "SG-SIN-MBC2-6-6B7003A",
+            "location": {
+              "latitude": 1.2763160380893743,
+              "longitude": 103.80014009813864
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000239397"
+                },
+                "username": "bruinharry",
+                "givenName": "Harry",
+                "middleName": "Hun",
+                "familyName": "Sa",
+                "title": "Intelligence Analyst - Singapore",
+                "personId": "117581310530096343778"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1000000043832"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000239397"
+        },
+        "distance": 3310.5364,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 14.552453708720009,
+              "longitude": 121.0498609319641
+            },
+            "markerLabelName": "Mishael Sa Dela Rosa",
+            "type": "WORKSPACE"
+          },
+          "floorId": "PH-MNL-WCC-28",
+          "asset": {
+            "roomId": "PH-MNL-WCC-28-2863J",
+            "location": {
+              "latitude": 14.552453708720009,
+              "longitude": 121.0498609319641
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000200138"
+                },
+                "username": "mishaelsa",
+                "givenName": "Mishael Sa",
+                "familyName": "Dela Rosa",
+                "title": "Reviewer- aQuality",
+                "personId": "104716590005994878392"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1002000158328"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000200138"
+        },
+        "distance": 4563.675,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 35.655606473748435,
+              "longitude": 139.75213109778531
+            },
+            "markerLabelName": "Changjin Sa",
+            "type": "WORKSPACE"
+          },
+          "floorId": "NONE",
+          "asset": {
+            "buildingId": "JP-TOK-SPB",
+            "location": {
+              "latitude": 35.655606473748435,
+              "longitude": 139.75213109778531
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000491984"
+                },
+                "username": "changjins",
+                "givenName": "Changjin",
+                "familyName": "Sa",
+                "title": "External Telesales"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000491984"
+        },
+        "distance": 6326.1567,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 51.533096690511755,
+              "longitude": -0.12576051680846922
+            },
+            "markerLabelName": "What's A Weekend?",
+            "markerDescription": "UK-LON-6PS-2-2J1",
+            "type": "CONFERENCE"
+          },
+          "floorId": "UK-LON-6PS-2",
+          "room": {
+            "roomId": "UK-LON-6PS-2-2J1",
+            "facilitiesUri": {
+              "serviceName": "facilities.corp.googleapis.com",
+              "resourcePath": "rooms/8571478984"
+            },
+            "spaceClass": "\\Classifications\\Space Class Current\\Meeting Space\\Conf Room - Small",
+            "basicRoomInfo": {
+              "displayName": "What's A Weekend?",
+              "location": {
+                "latitude": 51.533096690511755,
+                "longitude": -0.12576051680846925
+              },
+              "boundary": {
+                "polygons": [
+                  {
+                    "exterior": {
+                      "coordinates": [
+                        {
+                          "latitude": 51.533072303672817,
+                          "longitude": -0.12576989266814506
+                        },
+                        {
+                          "latitude": 51.533086018463187,
+                          "longitude": -0.12572404107461665
+                        },
+                        {
+                          "latitude": 51.5331210773507,
+                          "longitude": -0.12575114094879347
+                        },
+                        {
+                          "latitude": 51.53310736256033,
+                          "longitude": -0.12579699254232188
+                        },
+                        {
+                          "latitude": 51.533072303672817,
+                          "longitude": -0.12576989266814506
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "capacity": 8
+            },
+            "calendarInformation": {
+              "resourceId": "room_uk_lon_6ps_2_2j1",
+              "email": "google.com_726f6f6d5f756b5f6c6f6e5f3670735f325f326a31@resource.calendar.google.com",
+              "name": "LON-6PS-2-What's A Weekend? (8) [GVC]"
+            },
+            "equipmentInformation": {
+              "vcType": "GVC"
+            }
+          },
+          "id": "UK-LON-6PS-2-2J1"
+        },
+        "distance": 7707.116,
+        "relevance": 0.38145584
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 51.516435704125556,
+              "longitude": -0.12741022846369301
+            },
+            "markerLabelName": "Sofia Corrêa de Sá Stratton",
+            "type": "WORKSPACE"
+          },
+          "floorId": "UK-LON-CSG-5",
+          "asset": {
+            "roomId": "UK-LON-CSG-5-542A",
+            "location": {
+              "latitude": 51.516435704125556,
+              "longitude": -0.12741022846369301
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2845867365"
+                },
+                "username": "sofiacsa",
+                "givenName": "Sofia",
+                "familyName": "Corrêa de Sá Stratton",
+                "title": "#IamRemarkable Global Program Lead and Engagement for DMT",
+                "personId": "114941606802662725023"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/3659294510"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2845867365"
+        },
+        "distance": 7707.305,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 51.516135721981229,
+              "longitude": -0.12805980159255217
+            },
+            "markerLabelName": "Lucy Costa-D'sa",
+            "type": "WORKSPACE"
+          },
+          "floorId": "UK-LON-CSG-4",
+          "asset": {
+            "roomId": "UK-LON-CSG-4-472C",
+            "location": {
+              "latitude": 51.516135721981229,
+              "longitude": -0.12805980159255217
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2845916821"
+                },
+                "username": "lcostadsa",
+                "givenName": "Lucy",
+                "familyName": "Costa-D'sa",
+                "title": "Strategic Partner Lead",
+                "personId": "110822552041357713281"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/782311648"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2845916821"
+        },
+        "distance": 7707.3516,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 53.340035241307177,
+              "longitude": -6.2359342271626357
+            },
+            "markerLabelName": "Mateus Luiz Sa Silva",
+            "type": "WORKSPACE"
+          },
+          "floorId": "NONE",
+          "asset": {
+            "buildingId": "IE-DUB-GOR",
+            "location": {
+              "latitude": 53.340035241307177,
+              "longitude": -6.2359342271626357
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000201392"
+                },
+                "username": "mateusl",
+                "givenName": "Mateus",
+                "familyName": "Luiz Sa Silva",
+                "title": "Hospitality Assistant",
+                "personId": "115715253889739360958"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000201392"
+        },
+        "distance": 8104.7246,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 51.493545232483157,
+              "longitude": -0.14672610448023676
+            },
+            "markerLabelName": "Life's a Beach",
+            "markerDescription": "UK-LON-123-3-354",
+            "type": "OTHER"
+          },
+          "floorId": "UK-LON-123-3",
+          "room": {
+            "roomId": "UK-LON-123-3-354",
+            "facilitiesUri": {
+              "serviceName": "facilities.corp.googleapis.com",
+              "resourcePath": "rooms/1002000052798"
+            },
+            "spaceClass": "\\Classifications\\Space Class Current\\Business Support\\Collaboration",
+            "basicRoomInfo": {
+              "displayName": "Life's a Beach",
+              "location": {
+                "latitude": 51.493545232483157,
+                "longitude": -0.14672610448023646
+              },
+              "boundary": {
+                "polygons": [
+                  {
+                    "exterior": {
+                      "coordinates": [
+                        {
+                          "latitude": 51.49349280515105,
+                          "longitude": -0.14665863880325769
+                        },
+                        {
+                          "latitude": 51.493509775731866,
+                          "longitude": -0.14664688238868365
+                        },
+                        {
+                          "latitude": 51.493528084424888,
+                          "longitude": -0.14663419899335048
+                        },
+                        {
+                          "latitude": 51.493550662732794,
+                          "longitude": -0.14661855781105931
+                        },
+                        {
+                          "latitude": 51.493554074348189,
+                          "longitude": -0.14663126231916393
+                        },
+                        {
+                          "latitude": 51.493568580169381,
+                          "longitude": -0.14668528051914351
+                        },
+                        {
+                          "latitude": 51.493575132722704,
+                          "longitude": -0.14670968156001327
+                        },
+                        {
+                          "latitude": 51.493597659815258,
+                          "longitude": -0.146793570157214
+                        },
+                        {
+                          "latitude": 51.493539802233514,
+                          "longitude": -0.14683365114941238
+                        },
+                        {
+                          "latitude": 51.49349280515105,
+                          "longitude": -0.14665863880325769
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "calendarInformation": {
+              "resourceId": "room_uk_lon_123_3_354",
+              "email": "google.com_726f6f6d5f756b5f6c6f6e5f3132335f335f333534@resource.calendar.google.com",
+              "name": "LON-123-3-Life's a Beach (0) [*No GVC*, No external guests, No wheelchair access]"
+            },
+            "equipmentInformation": {
+              "vcType": "NO_VC"
+            }
+          },
+          "id": "UK-LON-123-3-354"
+        },
+        "distance": 7708.744,
+        "relevance": 0.21213377
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 38.723903626684532,
+              "longitude": -9.15068738148335
+            },
+            "markerLabelName": "Tiago Sá",
+            "type": "WORKSPACE"
+          },
+          "floorId": "PT-LIS-PAL37-4",
+          "asset": {
+            "roomId": "PT-LIS-PAL37-4-412A",
+            "location": {
+              "latitude": 38.723903626684532,
+              "longitude": -9.15068738148335
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/11721662704"
+                },
+                "username": "tiagosa",
+                "givenName": "Tiago",
+                "familyName": "Sá",
+                "title": "Customer Engineer, Google Cloud",
+                "personId": "117082876921211154199"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1000004466568"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/11721662704"
+        },
+        "distance": 8594.996,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 40.743032235650659,
+              "longitude": -74.007233999832124
+            },
+            "markerLabelName": "It's A Knockout",
+            "markerDescription": "US-NYC-CHEL-4-4D226",
+            "type": "CONFERENCE"
+          },
+          "floorId": "US-NYC-CHEL-4",
+          "room": {
+            "roomId": "US-NYC-CHEL-4-4D226",
+            "facilitiesUri": {
+              "serviceName": "facilities.corp.googleapis.com",
+              "resourcePath": "rooms/9717268748"
+            },
+            "spaceClass": "\\Classifications\\Space Class Current\\Meeting Space\\Conf Room - Large",
+            "basicRoomInfo": {
+              "displayName": "It's A Knockout",
+              "location": {
+                "latitude": 40.743032151952335,
+                "longitude": -74.007234109450238
+              },
+              "boundary": {
+                "polygons": [
+                  {
+                    "exterior": {
+                      "coordinates": [
+                        {
+                          "latitude": 40.742987627869539,
+                          "longitude": -74.007202942529133
+                        },
+                        {
+                          "latitude": 40.743034937477262,
+                          "longitude": -74.007168178461015
+                        },
+                        {
+                          "latitude": 40.743035282315105,
+                          "longitude": -74.007168995979782
+                        },
+                        {
+                          "latitude": 40.743035889066604,
+                          "longitude": -74.007168550126366
+                        },
+                        {
+                          "latitude": 40.743076341241817,
+                          "longitude": -74.007264451471627
+                        },
+                        {
+                          "latitude": 40.743075734490318,
+                          "longitude": -74.007264897325044
+                        },
+                        {
+                          "latitude": 40.743076079328155,
+                          "longitude": -74.007265714843825
+                        },
+                        {
+                          "latitude": 40.743028769720425,
+                          "longitude": -74.007300478911944
+                        },
+                        {
+                          "latitude": 40.742987627869539,
+                          "longitude": -74.007202942529133
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "capacity": 18
+            },
+            "calendarInformation": {
+              "resourceId": "room_us_nyc_chel_4_4d226",
+              "email": "google.com_726f6f6d5f75735f6e79635f6368656c5f345f3464323236@resource.calendar.google.com",
+              "name": "NYC-CHEL-4-D-226-It's A Knockout (18) [GVC]"
+            },
+            "equipmentInformation": {
+              "vcType": "GVC"
+            },
+            "notes": "http://goto/gvchelp for more information on how to use GVC. Near stairwells G & H."
+          },
+          "id": "US-NYC-CHEL-4-4D226"
+        },
+        "distance": 12941.967,
+        "relevance": 0.38145584
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 47.668728942653189,
+              "longitude": -122.19918694360426
+            },
+            "markerLabelName": "Sa Xiao",
+            "type": "WORKSPACE"
+          },
+          "floorId": "US-KIR-6THD-1",
+          "asset": {
+            "roomId": "US-KIR-6THD-1-1E18U",
+            "location": {
+              "latitude": 47.668728942653189,
+              "longitude": -122.19918694360426
+            },
+            "workspaceExtra": {
+              "owner": {
+                "hrUri": {
+                  "serviceName": "hr.corp.googleapis.com",
+                  "resourcePath": "persons/2018000381880"
+                },
+                "username": "saxiao",
+                "givenName": "Sa",
+                "familyName": "Xiao",
+                "title": "Software Engineer",
+                "personId": "105777468494584167322"
+              },
+              "roomUri": {
+                "serviceName": "facilities.corp.googleapis.com",
+                "resourcePath": "rooms/1002000048554"
+              }
+            }
+          },
+          "id": "WORKSPACE_ASSET-persons/2018000381880"
+        },
+        "distance": 12487.791,
+        "relevance": 0.27545574
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 37.628485407805613,
+              "longitude": -122.42677780622884
+            },
+            "markerLabelName": "It's A Trap",
+            "markerDescription": "US-SBO-901-2-2J6",
+            "type": "CONFERENCE"
+          },
+          "floorId": "US-SBO-901-2",
+          "room": {
+            "roomId": "US-SBO-901-2-2J6",
+            "facilitiesUri": {
+              "serviceName": "facilities.corp.googleapis.com",
+              "resourcePath": "rooms/3616680533"
+            },
+            "spaceClass": "\\Classifications\\Space Class Current\\Meeting Space\\Huddle",
+            "basicRoomInfo": {
+              "displayName": "It's A Trap",
+              "location": {
+                "latitude": 37.628485361018519,
+                "longitude": -122.42677807963987
+              },
+              "boundary": {
+                "polygons": [
+                  {
+                    "exterior": {
+                      "coordinates": [
+                        {
+                          "latitude": 37.628463942759083,
+                          "longitude": -122.42678406045725
+                        },
+                        {
+                          "latitude": 37.628476106323404,
+                          "longitude": -122.42675212007082
+                        },
+                        {
+                          "latitude": 37.628494327751945,
+                          "longitude": -122.42676318288495
+                        },
+                        {
+                          "latitude": 37.628494025627155,
+                          "longitude": -122.4267639762365
+                        },
+                        {
+                          "latitude": 37.6285065921296,
+                          "longitude": -122.42677160576351
+                        },
+                        {
+                          "latitude": 37.6284938243157,
+                          "longitude": -122.42680513285305
+                        },
+                        {
+                          "latitude": 37.628484189997152,
+                          "longitude": -122.42679928354902
+                        },
+                        {
+                          "latitude": 37.628485096371534,
+                          "longitude": -122.42679690349436
+                        },
+                        {
+                          "latitude": 37.628463942759083,
+                          "longitude": -122.42678406045725
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "capacity": 5
+            },
+            "calendarInformation": {
+              "resourceId": "room_us_sbo_901_2_2j6",
+              "email": "google.com_726f6f6d5f75735f73626f5f3930315f325f326a36@resource.calendar.google.com",
+              "name": "SBO-901-2-It's A Trap (5) [GVC]"
+            },
+            "equipmentInformation": {
+              "vcType": "GVC"
+            }
+          },
+          "id": "US-SBO-901-2-2J6"
+        },
+        "distance": 13513.929,
+        "relevance": 0.38145584
+      },
+      {
+        "poi": {
+          "mapMarkerInfo": {
+            "location": {
+              "latitude": 37.424107655141057,
+              "longitude": -122.07301504362985
+            },
+            "markerLabelName": "It's a Beautiful Day",
+            "markerDescription": "US-MTV-2071-2-2N5",
+            "type": "CONFERENCE"
+          },
+          "floorId": "US-MTV-2071-2",
+          "room": {
+            "roomId": "US-MTV-2071-2-2N5",
+            "facilitiesUri": {
+              "serviceName": "facilities.corp.googleapis.com",
+              "resourcePath": "rooms/1000004485398"
+            },
+            "spaceClass": "\\Classifications\\Space Class Current\\Meeting Space\\Huddle",
+            "basicRoomInfo": {
+              "displayName": "It's a Beautiful Day",
+              "location": {
+                "latitude": 37.424107655141057,
+                "longitude": -122.07301504362985
+              },
+              "boundary": {
+                "polygons": [
+                  {
+                    "exterior": {
+                      "coordinates": [
+                        {
+                          "latitude": 37.424092991175613,
+                          "longitude": -122.07299518538589
+                        },
+                        {
+                          "latitude": 37.4241223191065,
+                          "longitude": -122.07299518538589
+                        },
+                        {
+                          "latitude": 37.4241223191065,
+                          "longitude": -122.07303490187378
+                        },
+                        {
+                          "latitude": 37.424092991175613,
+                          "longitude": -122.07303490187378
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "capacity": 4
+            },
+            "calendarInformation": {
+              "resourceId": "room_us_mtv_2071_2_2n5",
+              "email": "c_188c5lhmpvp1og90g9o0avbign49i4gactnmuprcckn66rrd38b74rrfdlfnasqvdlq7cnpi60rj2npibsp6sd8@resource.calendar.google.com",
+              "name": "MTV-2071-2-It's a Beautiful Day (4) [GVC]"
+            },
+            "equipmentInformation": {
+              "vcType": "GVC"
+            }
+          },
+          "id": "US-MTV-2071-2-2N5"
+        },
+        "distance": 13547.125,
+        "relevance": 0.38145584
+      }
+    ],
+    "nextPageToken": "Ci4oc2EpICghaWQ6V09SS1NQQUNFX0FTU0VULXBlcnNvbnMvMTIyMDQ4MTAxMzUpEhIJWgeswaB1MUARvQl03N-XU0Add76wQiACKAIwEzoCMTk="
+  }
+  
+  
+  
